@@ -1,1 +1,6 @@
 print("Mam na imię Paweł!")
+print("Mam na imię Paweł!")
+print("Mam na imię Paweł!")
+print("Mam na imię Paweł!")
+print("Mam na imię Paweł!")
+print("Mam na imię Paweł!")
