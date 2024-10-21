@@ -1,0 +1,1 @@
+print("Mam na imię Paweł!")
